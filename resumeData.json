@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name": "Mandar Chinnapurkar",
+    "occupation": "Learning Programming and expert in HTML, CSS and JavaScript",
+    "description": "GrandMaster In Chess,  Leaning programming, Want to be full to be Full Stack Develoer.. #Mandy",
+    "image": "IG_MANDAR.jpeg",
+    "bio": "My name is MANDAR, I'm a learning Full Stack ReactJS Developer. Currently I'm in 10th and trying to aim to become backend and frontend developer",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mandarchinnapurkar0807@gmail.com",
+    "phone": "9769278582",
+    "address": {
+      "street": "Reti Bunder Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "421202"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mandar.chinnapurkar.9",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/m.a.n.d.a.r_0807/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Mandar08/Mandar-Chinnapurkar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Studying in 10th"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "25%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "10%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {    
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png"
+      },
+      {
+        "title": "Google Maps Locator ",
+        "category": "Google Maps Locator built with JavaScript, HTML, CSS",
+        "image": "Google Maps Locator.png",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": 
+        "Mandar is the tactful player with great chess skills.",
+        "user": "Carlin Marx... Chess GrandMaster"
+      }
+    ]
+  }
+}
